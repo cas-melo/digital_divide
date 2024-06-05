@@ -36,9 +36,9 @@ p {
 }
 
 .section_divider {
-    border-bottom: 2px solid #ccc; /* ou a cor que preferir */
-    margin-bottom: 20px; /* espaço abaixo da linha */
-    padding-bottom: 20px; /* espaço acima da linha */
+    border-bottom: 2px solid #ccc; 
+    margin-bottom: 20px; 
+    padding-bottom: 20px; 
 }
 
 .page-1-title {
